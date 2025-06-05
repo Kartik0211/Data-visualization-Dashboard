@@ -24,4 +24,4 @@ Interactive dashboard analyzing sales patterns using:
 ## How to Run
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/Data-Visualization-Dashboard.git
+   git clone https://github.com/Kartik0211/Data-visualization-Dashboard.git
