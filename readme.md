@@ -1,6 +1,6 @@
 # 📊 Sales Data Visualization Dashboard
 
-![Monthly Sales Trend](images/monthly_trend.png)
+![Monthly Sales Trend](monthly_trend.png)
 
 ## Project Overview
 Interactive dashboard analyzing sales patterns using:
